@@ -1,0 +1,114 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.ust{
+    width: 100%;
+    height: 40px;
+    background-color: black;
+    
+}
+nav a{
+    color: white;
+    text-decoration: none;
+    padding-left: 20px;
+    padding-top: 30px;
+   
+}
+.container{
+    width: 2000px;
+    height: 800px;
+    margin-left: 500px;
+ 
+}
+.e{
+    margin-left: 150px;
+}
+.resim1{
+    margin-left: -200px;
+    margin-top: 30px;
+    
+}
+.a{
+    margin-left: 100px;
+    margin-top: 50px;
+}
+.kv{
+    margin-left: -400px;
+    margin-top: 50px;
+}
+.j{
+    margin-left: 170px;
+}
+.span2{
+    margin-left: 130px;
+}
+.btn{
+    width: 120px;
+    height: 40px;
+    margin-left: 150px;
+    margin-top: 10px;
+    background-color: red;
+    color: white;
+    border-radius: 5px;
+    border: none;
+    cursor: pointer;
+}
+.res{
+    margin-left: 350px;
+    margin-top: -110px;
+}
+.l{
+    margin-left: 170px;
+}
+.span3{
+    margin-left: 10px;
+}
+.btn1{
+    width: 120px;
+    height: 40px;
+    margin-left: 170px;
+    margin-top: 10px;
+    background-color:cornflowerblue;
+    color: white;
+    border-radius: 5px;
+    border: none;
+    cursor: pointer;
+}
+.bolum1{
+    
+    width: max-content;
+    margin-left: -450px;
+    margin-top: 30px;
+}
+
+.btn3{
+    width: 120px;
+    height: 40px;
+   margin-top: 20px;
+    background-color:chartreuse;
+    color: white;
+    border-radius: 5px;
+    border: none;
+    cursor: pointer;
+}
+.bolum2{
+    margin-left: 330px;
+    margin-top: -320px;
+}
+.footer{
+    width: 100%;
+    height: 50px;
+    background-color: black;
+ margin-left: -500px;
+ border-radius: 10px;
+ margin-top: 20px;
+ 
+}
+.yazi{
+    font-size: 20px;
+    color: white;
+    text-align: center;
+    margin-left: 500px;
+    line-height: 50px;
+}
